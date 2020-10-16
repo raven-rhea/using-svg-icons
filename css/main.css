@@ -21,7 +21,7 @@ ul {
 }
 
 a {
-  display: flew;
+  display: flex;
   flex-direction: column;
   align-items: center;
   color: #76a500;
